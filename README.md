@@ -3,7 +3,7 @@
 <img src="http://i.imgur.com/fLhSUr0.png?1"/>
 </a>
 </p>
-  
+  https://webkul.com/blog/creating-prestashop-module-webservice-api/
 **First mobile E-commerce solution connected to Facebook Ads and Google**
   <br/>
 
